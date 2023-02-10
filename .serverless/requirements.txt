@@ -1,0 +1,9 @@
+Flask==1.1.4
+Werkzeug==1.0.1
+email_validator
+flask_jwt_extended
+flask_restful
+markupsafe==2.0.1
+mysql.connector
+passlib
+psycopg2-binary
